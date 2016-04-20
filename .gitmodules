@@ -4,3 +4,6 @@
 [submodule "sitronix/st2205/crasm"]
 	path = sitronix/st2205/crasm
 	url = https://github.com/colinbourassa/crasm.git
+[submodule "sitronix/st2205/libst2205"]
+	path = sitronix/st2205/libst2205
+	url = https://github.com/neophob/libst2205
